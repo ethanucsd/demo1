@@ -11,6 +11,6 @@ import java.util.*;
 public class myFileTester {
     @Test
     public void testMyMethod() {
-        assertEquals(myFile.myMethod(1), 1);
+        assertEquals(myFile.myMethod(1), 2);
     }
 }
